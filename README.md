@@ -1,8 +1,14 @@
 # Cake Tech Test
 
-Tech test for cake agency. 
+Tech test for cake agency. To run this:
+1. Clone the repo
+2. Run npm i
+3. Run node app.js and view the details in the console
 
-Cake tech test plan
+For testing run npm test
+
+
+Cake tech test plan:
 
 ## How would I approach the task:
 
